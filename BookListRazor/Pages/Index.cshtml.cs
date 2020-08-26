@@ -21,5 +21,9 @@ namespace BookListRazor.Pages
         {
 
         }
+        public void OnPost()
+        {
+
+        }
     }
 }
